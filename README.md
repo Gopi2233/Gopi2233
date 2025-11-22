@@ -1,4 +1,4 @@
-<img  align="center" alt="Coding" width="950" height="350" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
+<img  align="center" alt="Coding" width="800" height="280" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
 <h1 align="center">Hello Guys👋, I'm GOPINATH  S</h1>
 <h3 align="center">A passionate Web Developer </h3>
 
